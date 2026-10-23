@@ -1,2 +1,2 @@
 # PixelPet
-This is the pixelpet repository
+This is the PixelPet repository!
